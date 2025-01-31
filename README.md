@@ -1,4 +1,4 @@
-# InteligÊncia de dados SENAI CFP Afonso Greco Nova Lima
+# Inteligência de dados SENAI CFP Afonso Greco Nova Lima
 ## Repositório de dados para análises do curso de inteligência de dados que ministrei em Janeiro/Fevereiro 2025
 ### Tópicos abordados:
   * 1. Estatística Descritiva
